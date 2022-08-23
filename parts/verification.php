@@ -25,6 +25,6 @@
 		<span id="human_verification_timer_time"></span>
 	</div>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="og_load()"><span>Verify Now</span></a>
+		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="og_load();"><span>Verify Now</span></a>
 	</div>
 </div>
